@@ -1,2 +1,9 @@
-title: Sophia Barber
+title: Your Name
+description: Personal website
 theme: minima
+
+minima:
+  skin: solarized-dark
+
+plugins:
+  - jekyll-feed
