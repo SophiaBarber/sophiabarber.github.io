@@ -1,2 +1,4 @@
 title: Sophia Barber
 theme: minima
+minima:
+  skin: solarized-dark
