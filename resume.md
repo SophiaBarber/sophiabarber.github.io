@@ -1,6 +1,8 @@
 ---
-layout: default
-title: PDF Page
+layout: page
+title: Resume
+permalink: /resume/
+nav_order: 3
 ---
 
 # PDF Viewer Example
