@@ -11,12 +11,12 @@ Here is my PDF document:
 <div id="pdf-viewer" style="width: 100%; height: 600px; border: 1px solid #ccc; overflow: auto;"></div>
 
 <!-- Fallback Download Link -->
-<p>If the PDF does not display, you can <a href="{{ '/assets/files/my-document.pdf' | relative_url }}">download it here</a>.</p>
+<p>If the PDF does not display, you can <a href="{{ '/assets/files/Sophia Barber Resume v12.pdf' | relative_url }}">download it here</a>.</p>
 
 <!-- PDF.js Script -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.14.305/pdf.min.js"></script>
 <script>
-  const url = "{{ '/assets/files/my-document.pdf' | relative_url }}";
+  const url = "{{ '/assets/files/Sophia Barber Resume v12.pdf' | relative_url }}";
 
   // Configure PDF.js worker
   pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.14.305/pdf.worker.min.js';
