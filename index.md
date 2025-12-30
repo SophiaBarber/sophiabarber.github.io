@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /
-nav_exclude: true
+permalink: /about
 ---
 
 Hi! I'm **Your Name**.
