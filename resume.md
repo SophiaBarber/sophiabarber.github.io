@@ -5,10 +5,6 @@ permalink: /resume/
 nav_order: 3
 ---
 
-# PDF Viewer Example
-
-Here is the PDF embedded below:
-
 <iframe
   src="{{ '/assets/files/resume.pdf' | relative_url }}"
   width="100%"
