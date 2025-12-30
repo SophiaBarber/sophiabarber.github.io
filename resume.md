@@ -1,6 +1,6 @@
 ---
-layout: default
-title: PDF Page
+layout: page
+title: Resume
 ---
 
 # PDF Viewer Example
