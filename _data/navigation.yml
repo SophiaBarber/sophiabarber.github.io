@@ -1,7 +1,5 @@
 # _data/navigation.yml
 
-- title: About
-  url: /about/
 - title: Teaching/Experience
   url: /experience/
 - title: Projects
