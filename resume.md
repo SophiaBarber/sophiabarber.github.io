@@ -8,7 +8,7 @@ nav_order: 3
 <iframe
   src="{{ '/assets/files/resume.pdf' | relative_url }}"
   width="100%"
-  height="600px"
+  height="1000px"
   style="border:1px solid #ccc;">
     Your browser does not support PDFs.
     You can <a href="{{ '/assets/files/resume.pdf' | relative_url }}">download the PDF here</a>.
