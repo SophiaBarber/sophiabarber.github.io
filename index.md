@@ -1,6 +1,10 @@
 ---
 layout: page
+title: About
 permalink: /
+nav_exclude: true
 ---
 
-{% include_relative about.md %}
+Hi! I'm **Your Name**.
+
+This is my personal site hosted on GitHub Pages using Jekyll.
