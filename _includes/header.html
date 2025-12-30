@@ -3,12 +3,20 @@
     <h1 class="site-title">
       <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
     </h1>
+
+    {% if site.header %}
+      <p class="site-description">{{ site.header }}</p>
+    {% endif %}
+
+    <button class="menu-toggle" aria-controls="menu" aria-expanded="false">
+      Menu
+    </button>
   </div>
 
-  <nav class="site-nav">
+  <nav id="menu" class="site-nav">
     <ul class="nav">
       {% comment %}
-      Sort pages by nav_order so your buttons appear in the correct order
+      Sort pages by nav_order so buttons appear in the correct order
       {% endcomment %}
       {% assign sorted_pages = site.pages | sort: "nav_order" %}
       {% for page in sorted_pages %}
