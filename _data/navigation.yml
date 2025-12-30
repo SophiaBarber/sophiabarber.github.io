@@ -1,0 +1,12 @@
+# _data/navigation.yml
+
+- title: About
+  url: /about/
+- title: Teaching/Experience
+  url: /experience/
+- title: Projects
+  url: /projects/
+- title: Resume
+  url: /resume/
+  - title: Links
+  url: /links/
