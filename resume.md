@@ -1,16 +1,19 @@
 ---
-layout: page
-title: Resume
-permalink: /resume/
-nav_order: 3
+layout: default
+title: PDF Page
 ---
 
-# PDF Embedded with iframe
+# PDF Viewer Example
+
+Here is the PDF embedded below:
 
 <iframe
   src="{{ '/assets/files/resume.pdf' | relative_url }}"
   width="100%"
   height="600px"
   style="border:1px solid #ccc;">
-    This browser does not support PDFs. Please <a href="{{ '/assets/files/resume.pdf' | relative_url }}">download the PDF</a>.
+    Your browser does not support PDFs.
+    You can <a href="{{ '/assets/files/resume.pdf' | relative_url }}">download the PDF here</a>.
 </iframe>
+
+<p>If the PDF does not display in the iframe, click here to <a href="{{ '/assets/files/resume.pdf' | relative_url }}">download it</a>.</p>
