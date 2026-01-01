@@ -7,3 +7,10 @@ minima:
 
 plugins:
   - jekyll-feed
+
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - resume.md
+  - links.md
