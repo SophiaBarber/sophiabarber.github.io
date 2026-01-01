@@ -5,4 +5,15 @@ permalink: /experience/
 nav_order: 4
 ---
 
-Content here.
+# Graduate Teaching Assistant
+  September 2025 - June 2026
+  University of Washington Department of Applied Mathematics
+
+Courses:
+AMATH 352: Applied Linear Algebra and Numerical Analysis (Autumn 2025)
+AMATH 351: Intro to Differential Equations and Applications (Winter 2026)
+
+Held office hours weekly to assist students with questions about course content
+and homework problems; graded and provided feedback on homework
+assignments for 130 students every other week; wrote solutions to homework
+assignments; helped professors to proctor and grade exams.
