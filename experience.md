@@ -5,9 +5,8 @@ permalink: /experience/
 nav_order: 4
 ---
 
-# Graduate Teaching Assistant
+**Graduate Teaching Assistant**, University of Washington Department of Applied Mathematics
   September 2025 - June 2026
-  University of Washington Department of Applied Mathematics
 
 Courses:
 AMATH 352: Applied Linear Algebra and Numerical Analysis (Autumn 2025)
