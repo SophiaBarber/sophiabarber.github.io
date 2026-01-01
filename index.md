@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
-nav_order: 1
+<!-- permalink: /about/ -->
+<!-- nav_order: 1 -->
 ---
 
 Hi! I'm **Your Name**.
