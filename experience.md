@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching/Experience
+title: Experience
 permalink: /experience/
 nav_order: 4
 ---
 
-<font size="5">**Graduate Teaching Assistant**</font>, University of Washington Department of Applied Mathematics
+**<font size="5">Graduate Teaching Assistant</font>**, University of Washington Department of Applied Mathematics
 
 September 2025 - June 2026
 
