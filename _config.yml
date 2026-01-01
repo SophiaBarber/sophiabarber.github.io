@@ -5,12 +5,12 @@ remote_theme: jekyll/minima
 minima:
   skin: solarized-dark
 
-plugins:
-  - jekyll-feed
-
 header_pages:
   - index.md
   - experience.md
   - projects.md
   - resume.md
   - links.md
+
+plugins:
+  - jekyll-feed
