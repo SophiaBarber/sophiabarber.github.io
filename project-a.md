@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project A
+title: Submarine Signal Processing
 nav_exclude: true
 permalink: /projects/project-a/
 ---
@@ -17,4 +17,4 @@ of the submarine.
 
 Results here.
 
-To view the full paper, code, and data, click [here]<https://github.com/SophiaBarber/Submarine-tracking>.
+To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).
