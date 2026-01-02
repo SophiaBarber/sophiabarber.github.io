@@ -7,6 +7,8 @@ nav_order: 2
 
 ## Projects
 
+<img src="{{ '/assets/images/AMATH482_HW1_f5 (1).png' | relative_url }}" style="width:200px;border:3px solid red;">
+
 - Project A
 
 <div class="card-grid">
