@@ -15,6 +15,9 @@ to extract the center frequency in the Fourier domain, thereby cleaning the data
 location of highest acoustic pressure in the clean data at each time step to determine the location
 of the submarine.
 
-Results here.
+<figure>
+  <img src="/assets/images/AMATH482_HW1_f2_(1).png" alt="Diagram showing system architecture">
+  <figcaption>System architecture overview</figcaption>
+</figure>
 
 To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).
