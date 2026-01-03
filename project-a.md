@@ -16,8 +16,9 @@ location of highest acoustic pressure in the clean data at each time step to det
 of the submarine.
 
 <figure>
-  <img src="/assets/images/AMATH482_HW1_f2_(1).png" alt="Diagram showing system architecture">
-  <figcaption>System architecture overview</figcaption>
+  <img src="/assets/images/AMATH482_HW1_f2_(1).png" alt="test">
+  <figcaption>Test caption</figcaption>
 </figure>
+
 
 To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).
