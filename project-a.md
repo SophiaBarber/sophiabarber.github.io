@@ -21,4 +21,4 @@ of the submarine.
 </figure>
 
 
-To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).
+**To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).**
