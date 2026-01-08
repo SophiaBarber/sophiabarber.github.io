@@ -15,7 +15,7 @@ whose centroid is closest to its position, in low-dimensional space. We will adj
 problem and explore how many dimensions are necessary in our low-dimensional approximation.
 
 <figure>
-  <img src="/assets/images/AMATH482_HW1_f2_(1).png" alt="test">
+  <img src="/assets/files/AMATH482_HW2_fig2.png" alt="test">
   <figcaption>Test caption</figcaption>
 </figure>
 
