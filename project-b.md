@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot Movement Classifier: PCA
+title: Robot Movement Classifier PCA
 nav_exclude: true
 permalink: /projects/project-b/
 ---
