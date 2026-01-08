@@ -10,12 +10,12 @@ permalink: /testerpage/
 
 <div class="card-grid">
   <a href="/project1/" class="card">
-    <img src="/assets/files/482_5_img1" alt="Project 1">
+    <img src="/assets/files/482_5_img1.png" alt="Project 1">
     <h3>Project One</h3>
   </a>
 
   <a href="/project2/" class="card">
-    <img src="/assets/files/482_5_img1" alt="Project 2">
+    <img src="/assets/files/482_5_img1.png" alt="Project 2">
     <h3>Project Two</h3>
   </a>
 </div>
