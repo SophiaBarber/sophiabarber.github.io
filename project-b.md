@@ -20,4 +20,4 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 </figure>
 
 
-To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Robot-Movement-Classifier-PCA).
+**To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Robot-Movement-Classifier-PCA).**
