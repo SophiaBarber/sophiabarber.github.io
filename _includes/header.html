@@ -22,21 +22,22 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;           /* Horizontal by default */
+  display: flex;           /* Horizontal on desktop */
   gap: 1em;                /* Spacing between items */
-  flex-wrap: wrap;         /* Allow wrapping if narrow */
+  flex-wrap: wrap;         /* Wrap if narrow */
 }
 
 /* Nav items styling */
 .site-nav-item a {
   text-decoration: none;
-  color: inherit;
+  color: #007acc;          /* Minima blue */
   padding: 0.3em 0.5em;
   transition: color 0.2s;
+  font-weight: 500;
 }
 
 .site-nav-item a:hover {
-  color: #007acc; /* or any highlight color */
+  color: #666666;          /* Grey on hover */
 }
 
 /* Responsive: stack vertically on small screens */
