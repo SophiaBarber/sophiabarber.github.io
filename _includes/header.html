@@ -5,7 +5,7 @@
     </h1>
 
     <nav class="site-nav">
-      <ul class="site-nav-list" style="list-style: none; display: flex; gap: 1em; margin: 0; padding: 0;">
+      <ul class="site-nav-list">
         <li class="site-nav-item"><a href="{{ '/' | relative_url }}">About</a></li>
         <li class="site-nav-item"><a href="{{ '/experience/' | relative_url }}">Experience</a></li>
         <li class="site-nav-item"><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
@@ -15,3 +15,35 @@
     </nav>
   </div>
 </header>
+
+<style>
+/* Reset list style */
+.site-nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;           /* Horizontal by default */
+  gap: 1em;                /* Spacing between items */
+  flex-wrap: wrap;         /* Allow wrapping if narrow */
+}
+
+/* Nav items styling */
+.site-nav-item a {
+  text-decoration: none;
+  color: inherit;
+  padding: 0.3em 0.5em;
+  transition: color 0.2s;
+}
+
+.site-nav-item a:hover {
+  color: #007acc; /* or any highlight color */
+}
+
+/* Responsive: stack vertically on small screens */
+@media (max-width: 600px) {
+  .site-nav-list {
+    flex-direction: column;
+    gap: 0.5em;
+  }
+}
+</style>
