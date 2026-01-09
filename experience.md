@@ -10,9 +10,10 @@ nav_order: 4
 September 2025 - June 2026
 
 Courses:
-AMATH 352: Applied Linear Algebra and Numerical Analysis (Autumn Quarter 2025)
 
-AMATH 351: Intro to Differential Equations and Applications (Winter Quarter 2026)
+- AMATH 352: Applied Linear Algebra and Numerical Analysis (Autumn Quarter 2025)
+
+- AMATH 351: Intro to Differential Equations and Applications (Winter Quarter 2026)
 
 Held office hours weekly to assist students with questions about course content
 and homework problems; graded and provided feedback on homework
