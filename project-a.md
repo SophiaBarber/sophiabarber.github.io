@@ -23,8 +23,8 @@ of the submarine.
 
 
 <figure>
-  <img src="/assets/files/AMATH482_HW1_f4.png" alt="test", style ="width: 70%; height: 70%;">
-  <figcaption>3D trajectory of the submarine, showing the effect on the choice of the parameter $\tau$ in our gaussian filter. (C) was found to be the optimal $\tau$.</figcaption>
+  <img src="/assets/files/AMATH482_HW1_f4.png" alt="test">
+  <figcaption>3D trajectory of the submarine, showing the effect on the choice of the parameter &tau; in our gaussian filter. (C) was found to be the optimal &tau;.</figcaption>
 </figure>
 
 <figure>
