@@ -14,6 +14,8 @@ classify each image by digit, using cross-validation to tune hyper-parameters. W
 only images of certain digits and apply the same process. We then evaluate the accuracy of each classifier
 on both the train and test data.
 
+**Results:**
+
 <figure>
   <img src="/assets/files/AMATH482_HW3_m3.png" alt="test">
   <figcaption>Test caption</figcaption>
