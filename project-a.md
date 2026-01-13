@@ -15,6 +15,8 @@ to extract the center frequency in the Fourier domain, thereby cleaning the data
 location of highest acoustic pressure in the clean data at each time step to determine the location
 of the submarine.
 
+**Results:**
+
 <figure style="display: flex; gap: 16px; align-items: center;">
   <img src="/assets/files/AMATH482_HW1_f3_(1).png" alt="test 1" style="width: 48%;">
   <img src="/assets/files/AMATH482_HW1_f2_(1).png" alt="test 2" style="width: 48%;">
@@ -23,9 +25,13 @@ of the submarine.
 
 
 <figure>
-  <img src="/assets/files/AMATH482_HW1_f4.png" alt="test">
-  <figcaption>3D trajectory of the submarine, showing the effect on the choice of the parameter &tau; in our gaussian filter. (C) was found to be the optimal &tau;.</figcaption>
+  <img src="/assets/files/AMATH482_HW1_f4.png" alt="test" style="width:70%;">
+  <figcaption>
+    3D trajectory of the submarine, showing the effect on the choice of the parameter &tau; in our gaussian filter.
+    (C) was found to be the optimal &tau;.
+  </figcaption>
 </figure>
+
 
 <figure>
   <img src="/assets/files/AMATH482_HW1_f5.png" alt="test">
