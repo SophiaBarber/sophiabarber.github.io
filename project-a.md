@@ -16,20 +16,20 @@ location of highest acoustic pressure in the clean data at each time step to det
 of the submarine.
 
 <figure style="display: flex; gap: 16px; align-items: center;">
-  <img src="/assets/files/AMATH482_HW1_f2_(1).png" alt="test 1" style="width: 48%;">
-  <img src="/assets/files/AMATH482_HW1_f3_(1).png" alt="test 2" style="width: 48%;">
+  <img src="/assets/files/AMATH482_HW1_f3_(1).png" alt="test 1" style="width: 48%;">
+  <img src="/assets/files/AMATH482_HW1_f2_(1).png" alt="test 2" style="width: 48%;">
 </figure>
-<figcaption>Test caption</figcaption>
+<figcaption>3D trajectory of the submarine over time, extracted from the original, noisy data (left) vs from the filter, clean data (right), after applying a gaussian filter to our data.</figcaption>
 
 
 <figure>
   <img src="/assets/files/AMATH482_HW1_f4.png" alt="test">
-  <figcaption>Test caption</figcaption>
+  <figcaption>3D trajectories of the submarine, showing the effect on the choice of the parameter $\tau$ in our gaussian filter. (C) was found to be the optimal $\tau$.</figcaption>
 </figure>
 
 <figure>
   <img src="/assets/files/AMATH482_HW1_f5.png" alt="test">
-  <figcaption>Test caption</figcaption>
+  <figcaption>(x,y) Coordinates of the Submarine's path over time.</figcaption>
 </figure>
 
 
