@@ -21,3 +21,6 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 
 
 **To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Robot-Movement-Classifier-PCA).**
+
+
+Note: Data and project setup provided by Dr. Natalie Frank at the University of Washington as a part of the AMATH 482 Course.
