@@ -22,3 +22,4 @@ of the submarine.
 
 
 **To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Submarine-tracking).**
+Note: Code and data are provided in a zip file due to the large file sizes. Data provided by Dr. Natalie Frank at the University of Washington as a part of the AMATH 482 Course.
