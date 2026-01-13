@@ -14,6 +14,8 @@ project our data onto a lower dimension, and classify each sample by assigning i
 whose centroid is closest to its position, in low-dimensional space. We will adjust the dimensionality of the
 problem and explore how many dimensions are necessary in our low-dimensional approximation.
 
+**Results:**
+
 <figure>
   <img src="/assets/files/AMATH482_HW2_fig2.png" alt="test">
   <figcaption>Test caption</figcaption>
