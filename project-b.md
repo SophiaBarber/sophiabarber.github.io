@@ -23,8 +23,8 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 
 <figure style="margin-bottom: 2em;">
   <div style="display: flex; gap: 16px; align-items: center;">
-    <img src="/assets/files/AMATH482_HW1_f3_(1).png" alt="test 1" style="width: 48%;">
-    <img src="/assets/files/AMATH482_HW1_f2_(1).png" alt="test 2" style="width: 48%;">
+    <img src="/assets/files/AMATH482_HW2_fig3.png" alt="test 1" style="width: 48%;">
+    <img src="/assets/files/AMATH482_HW2_f2_fig4_new.png" alt="test 2" style="width: 48%;">
   </div>
   <figcaption>
     3D trajectory of the submarine over time, extracted from the original, noisy data (left)
