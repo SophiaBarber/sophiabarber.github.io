@@ -31,6 +31,15 @@ problem and explore how many dimensions are necessary in our low-dimensional app
   </figcaption>
 </figure>
 
+<figure>
+  <img src="/assets/files/AMATH482_HW2_fig8.png" alt="test">
+  <figcaption>Cumulative Energy plot, showing the percent of energy that is retained when we approximate the training data with k PCA spatial modes. This is shown for k up to 10, and the minimum number of modes we need to retain various energy thresholds is indicated.</figcaption>
+</figure>
+
+figure>
+  <img src="/assets/files/AMATH482_HW2_fig9.png" alt="test">
+  <figcaption>Cumulative Energy plot, showing the percent of energy that is retained when we approximate the training data with k PCA spatial modes. This is shown for k up to 10, and the minimum number of modes we need to retain various energy thresholds is indicated.</figcaption>
+</figure>
 
 **To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Robot-Movement-Classifier-PCA).**
 
