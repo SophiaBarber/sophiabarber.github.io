@@ -18,7 +18,7 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 
 <figure>
   <img src="/assets/files/AMATH482_HW2_fig2.png" alt="test">
-  <figcaption>Test caption</figcaption>
+  <figcaption>Cumulative Energy plot, showing the percent of energy that is retained when we approximate the training data with k PCA spatial modes. This is shown for k up to 10, and the minimum number of modes we need to retain various energy thresholds is indicated.</figcaption>
 </figure>
 
 
