@@ -33,12 +33,12 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 
 <figure>
   <img src="/assets/files/AMATH482_HW2_fig8.png" alt="test">
-  <figcaption>Cumulative Energy plot, showing the percent of energy that is retained when we approximate the training data with k PCA spatial modes. This is shown for k up to 10, and the minimum number of modes we need to retain various energy thresholds is indicated.</figcaption>
+  <figcaption>Plots of accuracy in classification vs k. (A) shows accuracy in classification of train data, (B) shows accuracy in classification of test data, and (C) again shows accuracy in classification of test data, but where we did not scale our data before classifying.</figcaption>
 </figure>
 
-figure>
+<figure>
   <img src="/assets/files/AMATH482_HW2_fig9.png" alt="test">
-  <figcaption>Cumulative Energy plot, showing the percent of energy that is retained when we approximate the training data with k PCA spatial modes. This is shown for k up to 10, and the minimum number of modes we need to retain various energy thresholds is indicated.</figcaption>
+  <figcaption>Plots of accuracy in classification via logistic regression method vs k. (A) shows accuracy in classification of train data; (B) shows accuracy in classification of test data.</figcaption>
 </figure>
 
 **To view the full paper, code, and data, click [here](https://github.com/SophiaBarber/Robot-Movement-Classifier-PCA).**
