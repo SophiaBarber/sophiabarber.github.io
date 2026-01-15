@@ -24,12 +24,10 @@ problem and explore how many dimensions are necessary in our low-dimensional app
 <figure style="margin-bottom: 2em;">
   <div style="display: flex; gap: 16px; align-items: center;">
     <img src="/assets/files/AMATH482_HW2_fig3.png" alt="test 1" style="width: 48%;">
-    <img src="/assets/files/AMATH482_HW2_f2_fig4_new.png" alt="test 2" style="width: 48%;">
+    <img src="/assets/files/AMATH482_HW2_fig4_new.png" alt="test 2" style="width: 48%;">
   </div>
   <figcaption>
-    3D trajectory of the submarine over time, extracted from the original, noisy data (left)
-    vs from the filtered, clean data (right). We filtered the data by applying a gaussian filter
-    to our data.
+    Plots of training data projected into truncated PCA space with 2 PCA modes (left) and with 3 PCA modes (right), both including the centroids (means). This allows us to see that our data is well separated by movement type.
   </figcaption>
 </figure>
 
