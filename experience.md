@@ -15,6 +15,8 @@ Courses:
 
 - AMATH 351: Intro to Differential Equations and Applications (Winter Quarter 2026)
 
+- AMATH 301: Beginning Scientific Computing (Spring Quarter 2026)
+
 Held office hours weekly to assist students with questions about course content
 and homework problems; graded and provided feedback on homework
 assignments for 130 students every other week; wrote solutions to homework
